@@ -26,8 +26,4 @@ The Enlightenment Plan is to meet the demands of developers "to meet players as 
 * The CID and the lender address will be the parameters to call our ERC721 contract to mint a NFT
 * To call the functions at Gameland on UI, the NFT ID will be used to fetch the corresponding CID and the showcase will be rendered
 
-## Tentative Milestones
-*  UI building (1week) & Testing
-*  Testnet launch(2weeks) : including lending, borrowing, withdraw and liquidation etc. 
-*  Bugs fixing and function optimizations(2weeks): imposing a fine as penalty instead of confiscating the collaterals
 
